@@ -68,11 +68,6 @@ Submission Response: 200 - {"status":"success"}
 
 ## 📜 SQL Solutions
 
-### Odd RegNo (Question 1)
-```sql
--- Placeholder query (replace with actual Q1 statement if provided)
-SELECT department, COUNT(*) FROM employees GROUP BY department;
-```
 
 ### Even RegNo (Question 2)
 ```sql
