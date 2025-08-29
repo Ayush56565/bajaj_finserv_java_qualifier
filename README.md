@@ -48,11 +48,11 @@ On startup, the application should:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/java-qualifier.git
-cd java-qualifier
+git clone https://github.com/Ayush56565/bajaj_finserv_java_qualifier
+cd bajaj_finserv_java_qualifier
 ```
 
-### 2. Build JAR (skip tests to avoid package mismatch)
+### 2. Build JAR
 ```bash
 mvn clean package -DskipTests
 ```
@@ -61,15 +61,6 @@ mvn clean package -DskipTests
 ```bash
 java -jar target/java-qualifier-1.0.0.jar
 ```
-
-You should see output like:
-```
-Generated Webhook URL: https://...
-Access Token: eyJhbGciOi...
-Final SQL Query Selected: SELECT ...
-Submission Response: 200 - {"status":"success"}
-```
-
 ---
 
 ## 📜 SQL Solutions
@@ -103,6 +94,7 @@ When the application runs successfully, you should see an output like this:
 Submission Response: 200 OK - {"success":true,"message":"Webhook processed successfully"}
 ```
 
+---
 
 ## 📦 Deliverables
 - **GitHub Repo:** [https://github.com/Ayush56565/bajaj_finserv_java_qualifier](https://github.com/Ayush56565/bajaj_finserv_java_qualifier)
