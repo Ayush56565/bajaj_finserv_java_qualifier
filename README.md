@@ -6,8 +6,8 @@ This project is a Spring Boot application built as part of the **Bajaj Finserv H
 
 ## 👨‍💻 Author
 **Ayush Sengupta**  
-Email: ayush.sengupta2022@vitstudent.ac.in 
-RegNo: 22BAI1032
+- Email: ayush.sengupta2022@vitstudent.ac.in 
+- RegNo: 22BAI1032
 
 ---
 
