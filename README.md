@@ -94,6 +94,16 @@ ORDER BY e1.EMP_ID DESC;
 
 ---
 
+
+## 🖥️ Output (Successful Execution)
+
+When the application runs successfully, you should see an output like this:
+
+```
+Submission Response: 200 OK - {"success":true,"message":"Webhook processed successfully"}
+```
+
+
 ## 📦 Deliverables
 - **GitHub Repo:** [https://github.com/Ayush56565/bajaj_finserv_java_qualifier](https://github.com/Ayush56565/bajaj_finserv_java_qualifier)
 - **Final JAR (Downloadable):** [https://github.com/Ayush56565/bajaj_finserv_java_qualifier/releases/download/first/java-qualifier-1.0.0.jar](https://github.com/Ayush56565/bajaj_finserv_java_qualifier/releases/download/first/java-qualifier-1.0.0.jar)
@@ -107,5 +117,4 @@ ORDER BY e1.EMP_ID DESC;
 - [x] Submits solution with JWT authentication
 - [x] Builds final JAR
 - [x] Submission-ready with GitHub repo and raw JAR link
-
 
