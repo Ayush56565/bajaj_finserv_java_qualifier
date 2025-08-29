@@ -13,8 +13,7 @@ On startup, the application should:
    - Receives a `webhook` URL and an `accessToken` (JWT).
 
 2. **Select SQL Problem**
-   - Based on the last two digits of `regNo`:
-     - **Odd** → Question 1 SQL
+   - Based on the last two digits of `regNo` (22BAI1032):
      - **Even** → Question 2 SQL (provided in the assignment)
 
 3. **Submit SQL Solution**
