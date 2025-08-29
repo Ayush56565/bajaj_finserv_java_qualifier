@@ -4,6 +4,13 @@ This project is a Spring Boot application built as part of the **Bajaj Finserv H
 
 ---
 
+## 👨‍💻 Author
+**Ayush Sengupta**  
+Email: ayush.sengupta2022@vitstudent.ac.in 
+RegNo: 22BAI1032
+
+---
+
 ## 📌 Problem Statement
 
 On startup, the application should:
@@ -88,8 +95,8 @@ ORDER BY e1.EMP_ID DESC;
 ---
 
 ## 📦 Deliverables
-- **GitHub Repo:** [https://github.com/<your-username>/java-qualifier.git](https://github.com/<your-username>/java-qualifier.git)
-- **Final JAR (Downloadable):** [https://github.com/<your-username>/java-qualifier/raw/main/java-qualifier-1.0.0.jar](https://github.com/<your-username>/java-qualifier/raw/main/java-qualifier-1.0.0.jar)
+- **GitHub Repo:** [https://github.com/Ayush56565/bajaj_finserv_java_qualifier](https://github.com/Ayush56565/bajaj_finserv_java_qualifier)
+- **Final JAR (Downloadable):** [https://github.com/Ayush56565/bajaj_finserv_java_qualifier/releases/download/first/java-qualifier-1.0.0.jar](https://github.com/Ayush56565/bajaj_finserv_java_qualifier/releases/download/first/java-qualifier-1.0.0.jar)
 
 ---
 
@@ -101,10 +108,4 @@ ORDER BY e1.EMP_ID DESC;
 - [x] Builds final JAR
 - [x] Submission-ready with GitHub repo and raw JAR link
 
----
-
-## 👨‍💻 Author
-**Ayush Sengupta**  
-Email: ayush.sengupta2022@vitstudent.ac.in 
-RegNo: 22BAI1032
 
